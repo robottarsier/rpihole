@@ -74,7 +74,7 @@ https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts
 ## Steven Black GitHub
 # Steven Black 
 https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts
-# KADhosts Fraud/adware/scam websites.
+# KADhosts Fraud/adware/scam websites
 https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt
 
 # Dan Pollock - someonewhocares.org
@@ -90,4 +90,4 @@ https://raw.githubusercontent.com/WindowsLies/BlockWindows/master/hosts
 https://raw.githubusercontent.com/TakoYachty/Gift-Card-Killer/master/giftcardkiller.txt
 
 # Nathanaccidentally Ads and Malware
-https://raw.githubusercontent.com/nathanaccidentally/SystemHostsBlocker/master/hosts 
+https://raw.githubusercontent.com/nathanaccidentally/SystemHostsBlocker/master/hosts
