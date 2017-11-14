@@ -83,11 +83,11 @@ http://someonewhocares.org/hosts/zero/hosts
 # Yoyo.org Blocking with ad server and tracking server hostnames.
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 
-# Windows Tracking
+# Windows Tracking - Stop Windows 7 through 10 Nagging and Spying updates, Tasks, IPs, and services
 https://raw.githubusercontent.com/WindowsLies/BlockWindows/master/hosts
 
-# Fake Giftcards
-https://raw.githubusercontent.com/TakoYachty/Gift-Card-Killer/master/giftcardkiller.txt 
+# TakoYachty - Gift Card Killer
+https://raw.githubusercontent.com/TakoYachty/Gift-Card-Killer/master/giftcardkiller.txt
 
-# Nathanaccidentally
+# Nathanaccidentally Ads and Malware
 https://raw.githubusercontent.com/nathanaccidentally/SystemHostsBlocker/master/hosts 
