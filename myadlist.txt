@@ -89,3 +89,6 @@ https://raw.githubusercontent.com/WindowsLies/BlockWindows/master/hosts
 
 # Fake Giftcards
 https://raw.githubusercontent.com/TakoYachty/Gift-Card-Killer/master/giftcardkiller.txt 
+
+# Nathanaccidentally
+https://raw.githubusercontent.com/nathanaccidentally/SystemHostsBlocker/master/hosts 
