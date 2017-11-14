@@ -83,3 +83,9 @@ http://someonewhocares.org/hosts/zero/hosts
 
 # Yoyo.org Blocking with ad server and tracking server hostnames.
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
+
+# Windows Tracking
+https://raw.githubusercontent.com/WindowsLies/BlockWindows/master/hosts
+
+# Fake Giftcards
+https://raw.githubusercontent.com/TakoYachty/Gift-Card-Killer/master/giftcardkiller.txt 
